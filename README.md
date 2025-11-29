@@ -1,5 +1,5 @@
 Here is a clean, structured, and professional **README.md** converted from your TASK 03 image.
-You can directly copy and paste it into your repository.
+
 
 ---
 
